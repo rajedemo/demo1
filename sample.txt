@@ -1,0 +1,15 @@
+All areas of Search (ranking,query understanding, query expansion, related queries, de-douping ...)
+Recommendation (you may like ...)
+Merchandising (this item goes with this item)
+Image recognition and understanding
+Concept extraction 
+Sentiment and trend analysis
+Shipping cost and time estimation
+Inbound and outbound logistics optimization
+All manner of fraud detection and prevention (a long list here)
+Entity Resolution (do these three accounts belong to the same person?)
+Classification
+Pricing
+Supply and demand analysis and forecast
+Wallet management and funding source optimization
+Various scheduling and optimal resource allocation
